@@ -1,0 +1,14 @@
+div#Coo {
+    font: normal 20pt Arial;
+    background-color: rgb(239, 186, 250);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+input {
+    width: 100px;
+}
