@@ -1,5 +1,3 @@
-Aqui está um exemplo de **README.md** para o seu jogo, que pode ser usado para explicar o que o jogo faz, como jogar e como rodar o código:
-
 ---
 
 # **Jogo de Coos**
